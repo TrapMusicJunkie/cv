@@ -47,11 +47,16 @@ a:hover {
   color: #ffffff;
 }
 
+.style {
+  height: 60px;
+}
+
 .top-container {
   background-color: #5089C6;
   position: relative;
-  padding: 80px;
+  padding: 50px;
 }
+
 .middle-container {
   margin: 100px 0;
 }
